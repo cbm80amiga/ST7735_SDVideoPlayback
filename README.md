@@ -1,6 +1,8 @@
 # ST7735_SDVideoPlayback
 Smooth video playback from SD on STM32 and ST7735 1.8" 128x160 using DMA and fast SPI 36Mbps interface
 
+Achieved 34 fps using fast Samsung SD card
+
 YouTube video:
 
 https://youtu.be/o3AqITHf0mo
