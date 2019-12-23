@@ -8,7 +8,7 @@ https://youtu.be/o3AqITHf0mo
 
 ## Connections (header at the top):
 
-|LCD pin|LCD pin name|Arduino|
+|LCD pin|LCD pin name|STM32|
 |--|--|--|
  |#01| LED| 3.3V|
  |#02| SCK |PA5/SCK|
@@ -19,7 +19,7 @@ https://youtu.be/o3AqITHf0mo
  |#07| GND | GND|
  |#08| VCC | 3.3V|
 
-|SD pin|SD pin name|Arduino|
+|SD pin|SD pin name|STM32|
 |--|--|--|
 |#01| SD_SCK| PA5|
 |#02| SD_MISO |PA6|
