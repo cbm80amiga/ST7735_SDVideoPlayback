@@ -41,5 +41,6 @@ https://youtu.be/o3AqITHf0mo
 - SPI1 is shared between LCD and SD card
 - Demo videos used in the video are taken from my older project and are not optimal (200x120 resolution - only 160x120 part is displayed on LCD)
  
- If you find it useful and want to buy me a coffee or a beer:
- paypal.me/cbm80amiga
+If you find it useful and want to buy me a coffee or a beer:
+
+https://www.paypal.me/cbm80amiga
